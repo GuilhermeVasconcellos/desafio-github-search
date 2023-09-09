@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHubSearch</string>
+    <string name="nome_usuario">Nome do usuário</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="response_error">Algo deu errado. Por favor, tente mais tarde</string>
+    <string name="share_icon_content_description">Botão para compartilhar repositório</string>
+
+    // shared preferences
+    <string name="nome_github"> </string>
+</resources>
